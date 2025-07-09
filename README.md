@@ -1,7 +1,7 @@
 # DBMS-Project
 
 Maintaining high passenger satisfaction is critical in the highly competitive airline industry. Positive 
-experiences encourage favorable reviews, while dissatisfied passengers often share negative word-of mouth online, an influential factor in purchase decision making.
+experiences encourage favorable reviews, while dissatisfied passengers often share negative word of mouth online, an influential factor in purchase decision making.
 The amount of review data generated from airline reviews is unstructured, huge, and grows 
 exponentially with time, which poses a challenge in managing, organizing, and performing analytics. Text 
 mining provides automated methods to uncover hidden patterns and sentiments within large‐scale 
