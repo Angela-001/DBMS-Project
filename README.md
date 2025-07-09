@@ -19,3 +19,36 @@ The project’s goals are:
 4. Identify common complaint themes among the reviews via keyword analysis.
 5. Apply data visualization to identify customer satisfaction patterns across airlines, over time, and 
 across different traveler types.
+
+## Technologies Used
+
+- Python 3.10
+- Jupyter Notebook
+- pandas, numpy, TextBlob, NLTK, Plotly
+
+## Dataset
+
+Airline review data was sourced from Kaggle at https://www.kaggle.com/datasets/juhibhojani/airline-reviews 
+
+- The dataset includes 23,171 reviews from 497 airlines.
+- Features of the dataset are: 
+  - Airline Name
+  - Overall Rating
+  - Review Title
+  - Review Date
+  - Verified (whether the review is verified or not)
+  - Review
+  - Aircraft
+  - Type of Traveller
+  - Seat Type
+  - Route
+  - Date Flown
+  - Seat Comfort
+  - Cabin Staff Service
+  - Food & Beverages
+  - Ground Service
+  - Inflight Entertainment
+  - Wifi & Connectivity
+  - Value for Money
+  - Recommended
+      
