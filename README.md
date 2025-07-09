@@ -24,6 +24,7 @@ across different traveler types.
 
 - Python 3.10
 - Jupyter Notebook
+- MongoDB
 - pandas, numpy, TextBlob, NLTK, Plotly
 
 ## Dataset
